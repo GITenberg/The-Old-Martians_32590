@@ -1,0 +1,32 @@
+_repo: The-Old-Martians_32590
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32590-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Phillips, Rog
+    aliases:
+    - Graham, Roger Phillips
+    - Browning, Craig
+    birthdate: 1909
+    deathdate: 1965
+    gutenberg_agent_id: '34753'
+    url: http://www.gutenberg.org/2009/agents/34753
+    wikipedia: http://en.wikipedia.org/wiki/Rog_Phillips
+description: ''
+gutenberg_issued: '2010-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32590'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mars (Planet) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+title: The Old Martians
+url: http://www.gutenberg.org/ebooks/32590
